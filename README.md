@@ -52,4 +52,19 @@ This is a **full stack web application** built using:
 - GET `/api/donors` – Get all donors
 - Email verification sent via SMTP after registration
 
+## 📷 Screenshots
+
+Image1- https://github.com/user-attachments/assets/91f739f6-b239-4f17-9142-612cfd83fe63
+Image2- https://github.com/user-attachments/assets/80c08acb-497d-41b0-acb1-e69f4b6c1599
+Image3- https://github.com/user-attachments/assets/368de896-f4bc-4248-ba6b-0332e9189bf7
+Image4- https://github.com/user-attachments/assets/2ac3e2bd-2b52-4092-b29a-4bed94a50ead
+Image5- https://github.com/user-attachments/assets/b239a433-6f8c-4b37-99ff-e71be4982671
+Image6- https://github.com/user-attachments/assets/da919d64-c1af-47fa-adc3-e49a2904237c
+Image7- https://github.com/user-attachments/assets/bfe11e14-2f01-4fd0-a1e3-e7bf55d5678d
+
+
+
+
+
+
 
